@@ -1,2 +1,5 @@
 # Q5-SQL-Project
 Company Operational Analysis of YXZ inc.
+XYZ Inc. is an e-commerce company that was launched in 2015. Since then, they have had a range of operations in multiple districts of the country.
+They have a high-functioning team and an excellent reputation among their customers. The firm is quite interested in doing a regular analysis on multiple domains for a perennial health check across all domains. As they have the policy to have multiple analysts review the different aspects of their businesses, They have hired you as a Data Scientist in their data consulting team which offers services across various departments such as sales, customers, HR, etc. 
+They have given you a sample of data from their databases (DDL Commands File is shared separately). You have to work with the teams to help them with some of their pain points like pricing analysis, product growth, product sales, etc. as well as help them work on a new set of financial analyses and do target market/product fit analysis.
